@@ -10,10 +10,7 @@ Haz clic en la imagen para explorar el dashboard en tiempo real:
 
 ## 🎯 Objetivo del proyecto
 
-Analizar el desempeño comercial de una empresa (ventas, ganancia, margen y 
-comportamiento por región/producto) partiendo de datos transaccionales crudos, 
-pasando por un modelo relacional en SQL hasta un dashboard interactivo que 
-permite explorar tendencias y tomar decisiones.
+Analizar el desempeño comercial de una empresa (ventas, ganancia, margen y comportamiento por región/producto) partiendo de datos transaccionales crudos, pasando por un modelo relacional en SQL hasta un dashboard interactivo que permite explorar tendencias y tomar decisiones.
 
 ## 🗂️ Modelo de datos
 
