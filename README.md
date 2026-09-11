@@ -22,3 +22,38 @@ El proyecto sigue un esquema en estrella (star schema):
 - **dim_tiempo**: dimensión de calendario
 
 ![Modelo relacional](Tablas_Relacionadas.png)
+
+## 🧮 Consultas SQL
+
+Además del modelado, este proyecto incluye consultas SQL con dos propósitos:
+
+- **Validación**: reproducir KPIs clave del dashboard (ventas totales, margen %, top productos) directamente desde la base de datos, para confirmar que la lógica de negocio es consistente entre SQL y DAX.
+- **Exploración adicional**: responder preguntas de negocio que el dashboard no cubre, usando CTEs, subconsultas correlacionadas y funciones de fecha/texto.
+
+> 📌 Esta sección se irá actualizando conforme agregue nuevas consultas.
+
+## 📈 KPIs principales (según el dashboard)
+
+| Métrica              | Valor       |
+|-----------------------|-------------|
+| Ventas totales         | S/ 557.28 mil |
+| Ganancia               | S/ 207.24 mil |
+| Margen %                | 37.19%      |
+| Unidades vendidas       | 2,995       |
+
+## 🛠️ Tecnologías utilizadas
+
+- **MySQL** — modelado relacional, carga de datos, consultas analíticas
+- **Power BI** — modelo semántico (DAX), visualización interactiva
+- **MySQL Workbench** — diseño del diagrama entidad-relación
+
+## 🚀 Cómo explorarlo
+
+1. Revisa el modelo relacional en `tablas relacionadas.mwb`
+2. Explora las consultas SQL en `creacion de tablas.sql` y la carpeta `consultas/`
+3. Haz clic en la imagen del dashboard arriba para interactuar con el reporte en vivo
+
+## 👤 Autor
+
+**Bryan Ventura**  
+[LinkedIn](https://www.linkedin.com/in/bryanventuravela/) · [GitHub](https://github.com/bryanventura-data)
