@@ -42,6 +42,13 @@ Además del modelado, este proyecto incluye consultas SQL con dos propósitos:
 | Margen %                | 37.19%      |
 | Unidades vendidas       | 2,995       |
 
+## 🔍 Hallazgos principales
+
+- **Laptops lidera en ventas, pero no en margen**: es el producto con mayores ingresos (S/ 142.89 mil), aunque su margen (25.85%) está por debajo del promedio general (37.19%).
+- **Accesorios es la categoría más rentable**: con solo S/ 131.23 mil en ventas (la más baja de las tres categorías), genera el margen más alto (54.48%) — el Mouse y el Teclado superan el 56% y 54% de margen respectivamente.
+- **Tecnología concentra el mayor volumen de ventas** (S/ 324.08 mil), pero su margen (29.15%) es el más bajo entre las tres categorías, arrastrado por productos de alto precio como Laptop y Laptop Gamer.
+- **Oportunidad**: los productos con mejor margen (Mouse, Teclado, Webcam HD) tienen relativamente pocas unidades vendidas comparado con su rentabilidad — podría valer la pena evaluar estrategias para impulsar su volumen.
+
 ## 🛠️ Tecnologías utilizadas
 
 - **MySQL** — modelado relacional, carga de datos, consultas analíticas
