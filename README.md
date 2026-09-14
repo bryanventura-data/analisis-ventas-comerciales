@@ -1,6 +1,7 @@
 # 📊 Análisis de Ventas Comerciales
 
-Proyecto de análisis de ventas end-to-end: modelado de datos con **MySQL**, consultas SQL para exploración y validación, y un **dashboard interactivo en Power BI** para el seguimiento de KPIs comerciales.
+Este proyecto nació de una pregunta simple: ¿qué tan bien está vendiendo la empresa, y dónde? Partiendo de datos transaccionales crudos, construí un modelo relacional en MySQL, escribí consultas SQL para validar y explorar el negocio, y armé un dashboard interactivo en Power BI que convierte esos números en decisiones.
+
 
 ## 🖥️ Dashboard Interactivo
 
