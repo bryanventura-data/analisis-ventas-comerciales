@@ -44,10 +44,14 @@ Además del modelado, este proyecto incluye consultas SQL con dos propósitos:
 
 ## 🔍 Hallazgos principales
 
-- **Laptops lidera en ventas, pero no en margen**: es el producto con mayores ingresos (S/ 142.89 mil), aunque su margen (25.85%) está por debajo del promedio general (37.19%).
-- **Accesorios es la categoría más rentable**: con solo S/ 131.23 mil en ventas (la más baja de las tres categorías), genera el margen más alto (54.48%) — el Mouse y el Teclado superan el 56% y 54% de margen respectivamente.
-- **Tecnología concentra el mayor volumen de ventas** (S/ 324.08 mil), pero su margen (29.15%) es el más bajo entre las tres categorías, arrastrado por productos de alto precio como Laptop y Laptop Gamer.
-- **Oportunidad**: los productos con mejor margen (Mouse, Teclado, Webcam HD) tienen relativamente pocas unidades vendidas comparado con su rentabilidad — podría valer la pena evaluar estrategias para impulsar su volumen.
+- **Accesorios es la categoría más rentable y de mayor volumen**: con S/ 131.23 mil en ventas, genera el margen más alto (54.48%) y concentra 2,632 de las 2,995 unidades vendidas (~88% del total) — Mouse (56.85%) y Teclado (54.66%) tienen el mejor margen individual de todo el catálogo, y además son los productos más vendidos en unidades.
+- **Tecnología genera más ingresos, pero con menor margen**: es la categoría líder en ventas (S/ 324.08 mil), aunque su margen (29.15%) es el más bajo de las tres — arrastrado por Laptop, que es el producto individual con más ventas (S/ 142.89 mil) pero el margen más bajo de todo el catálogo (25.85%).
+- **Mobiliario depende de pocos productos de alto valor**: Silla representa el 94% de las ventas de su categoría (S/ 95.51 mil de S/ 101.96 mil) con solo 162 unidades, lo que indica un precio unitario alto frente al resto del catálogo.
+
+## 💡 Recomendaciones
+
+- **Revisar la estructura de costos de Laptop**: es el producto con más ingresos del catálogo (S/ 142.89 mil), pero su margen (25.85%) es el más bajo de todos los productos — está arrastrando el margen general de Tecnología por debajo del promedio. Vale la pena evaluar si hay espacio para renegociar costo unitario o ajustar precio sin perder competitividad.
+- **Impulsar Webcam HD y Audífonos Bluetooth mediante cross-selling**: ambos tienen buen margen (50.00% y 47.00%) pero muy bajo volumen (38 y 79 unidades) frente a Mouse y Teclado, que venden más de 1,200 unidades cada uno. Ofrecerlos en combo con estos productos de alta rotación podría aumentar su visibilidad sin gasto adicional en adquisición.
 
 ## 🛠️ Tecnologías utilizadas
 
